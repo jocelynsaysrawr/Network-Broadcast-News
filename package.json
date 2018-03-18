@@ -1,0 +1,25 @@
+{
+  "name": "network-broadcast-news",
+  "version": "1.0.0",
+  "description":
+    "A NodeJS broadcast server for the largest media conglomerate in the world",
+  "main": "client.js",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.15.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jocelynsaysrawr/Network-Broadcast-News.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jocelynsaysrawr/Network-Broadcast-News/issues"
+  },
+  "homepage": "https://github.com/jocelynsaysrawr/Network-Broadcast-News#readme"
+}
